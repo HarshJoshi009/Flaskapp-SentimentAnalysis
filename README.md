@@ -10,5 +10,7 @@ The project emphasizes simplicity and serves as a practical example of integrati
 
 ## Results
 ![image](https://github.com/HarshJoshi009/Flaskapp-SentimentAnalysis/assets/96170773/ca2802ff-e0bd-4ba4-a8c3-5f48612d916b)
+
+
 ![image](https://github.com/HarshJoshi009/Flaskapp-SentimentAnalysis/assets/96170773/9d6ac14e-7541-48c6-8064-5b430e2825dc)
 
